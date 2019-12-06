@@ -8,4 +8,5 @@ This is a demo repository while I am learning React JS .
   Then to creat a project we will have to use again npm command <br/>
   <i>create-react-app --version</i>
   <br/> If the above command is not working then try to use the below command to create the project <br/>
-  <i>npx create-react-app my-app</i>
+  <i>npx create-react-app my-app</i> <br/><br/>
+  After you created a project you can use <strong>npm start </strong> to start the project . 
